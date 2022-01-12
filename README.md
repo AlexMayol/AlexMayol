@@ -1,5 +1,5 @@
 ### Hello there, dear stranger 👀
-![I love dogs!](https://placedog.net/1024/450?random)
+![I love dogs!](https://placedog.net/640/480?random)
 
 My name is Alejandro and I love coding websites. It's been my job for nearly three years and you cand find some of the things I learnt during this time here, on my repositories.
 
