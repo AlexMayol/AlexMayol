@@ -1,7 +1,7 @@
 ### Hello there, dear stranger 👀
 ![I love dogs!](https://placedog.net/640/480?random)
 
-My name is Alejandro and I love coding websites. It's been my job for nearly three years and you cand find some of the things I learnt during this time here, on my repositories.
+My name is Alejandro and I love coding websites. It's been my job for nearly five years and you cand find some of the things I learnt during this time here, on my repositories.
 
 I've been highly focused on **front-end** for most of my career. As you can tell by my profile, I love Vue and Tailwind and they've been boosting my productivity and enjoyment.
 
